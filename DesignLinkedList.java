@@ -1,4 +1,4 @@
-class MyLinkedList {
+class DesignLinkedList {
   
   private Node head;
   private Node tail;
